@@ -1,63 +1,40 @@
 <div align="center">
 
-# Hi there, I'm Aziz Khoirul Setiawan! 👋
+<h1>Aziz Khoirul Setiawan</h1>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Information+Technology+Student+'25+%40+UIN+Salatiga;Fedora+Linux+Daily+Driver+%F0%9F%90%A7;Exploring+Linux+SysAdmin%2C+Logic+%26+Machine+Learning;Crafting+2D+pixel+worlds+with+Godot+Engine+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Information+Technology+'25+%E2%80%94+UIN+Salatiga;Fedora+Linux+Daily+Driver+%E2%80%A2+SysAdmin+%26+Logic;Python+CLI+%E2%80%A2+Web+Systems+%E2%80%A2+Godot+2D+Pixel" alt="Subtitle" />
 </a>
 
 <br>
 
-<!-- Social & Identity Pills -->
-<p>
+<p align="center">
   <a href="https://www.instagram.com/azyskhrul">
-    <img src="https://img.shields.io/badge/Instagram-@azyskhrul-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img height="28" src="https://img.shields.io/badge/Instagram-%40azyskhrul-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
-  <img src="https://img.shields.io/badge/UIN%20Salatiga-IT%20'25-2EA44F?style=for-the-badge" alt="UIN Salatiga" />
+  <img height="28" src="https://img.shields.io/badge/Fedora_Linux-Workstation-161B22?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Fedora" />
+  <a href="https://uinsalatiga.ac.id">
+    <img height="28" src="https://img.shields.io/badge/UIN_Salatiga-IT_'25-161B22?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAYCAMAAAAvSTY9AAACo1BMVEUAAADr0YHs0X7r0YDT2ODs0X/s0Xzc1bvr0X/r0X/s0X3o0o7a1sPr0YHs0X7s0Xvs0X/t0Hri1KbR2Obi1Kbr0X/m0pTh1Knq0YXt0Hrr0YHb1sDS2OTs0Xzf1bLS2ObZ1sjg1K7e1bTT2OHT2ODT2OHe1bPs0X7p0orX19DS2OTS2ObS2OLT2ODT2ODT2OLS2OXs0Xve1bbR2OfT2ODT2ODT2ODT2ODT2ODR2Ofe1bbs0X3t0Hnr0YDe1bXS2OLT2ODT2ODT2OHS2OPT2OHT2ODT2ODS2OPe1bXr0YDp0ork053c1bzT2ODT2ODT2OHa1sXq0YbT2OHT2ODT2ODT2ODk053r0YDa1sXS2OXS2OPT2ODT2ODS2OTr0YDr0YHr0YHS2OTT2ODm05be1bPY18zS2OLT2ODT2ODT2OLh1Krs0X/T2OLT2ODS2OLs0X3t0Xvq0Yfb1sLT2OLT2ODT2ODT2OLT2OLT2ODT2ODT2OHb1sHp0Yfe1bPR2ObT2OH7zEDS2OXe1bPr0X/q0YPS2OPT2ODT2N/j06Hs0X/j06LS2OPs0Xzg1KrS2OLT2ODT2OHR2Obs0X7r0YHs0X7g1Kvs0X7g1KvS2OTR2erwz2zr0X/r0YHr0YHr0YHr0YDt0Hjt0Hrr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YHr0YGASnYTAAAA4XRSTlMAAAAAAAAAADSLGnx/ETc1ES+DjYI+hoRvPG2BaT2FjIKGa2EHXmkad4BHP2FJLXVBRocyLlohaiwxhhIjbGhxG0FqbmQ7H1dpLXiAgWJvYjpFbWVWZ4GLhIxkBTJmVfJVYyqDhH5QOlRhOW9eIk0lQXdrZD1eTU5RM3Vod4I5TQo/gw5sNyZtY6BiNjqHjHBcI0lqSIc8Y1cPDGdni3RoDAyYtLWy5ZZdtqiCsYqRpK4uonrc2OGwwJd5BAwKHk5SUz0wHw0SMyotJiggLzIQGklCVDc1WFEJgWuDTJSQViRd0h0GAAABqUlEQVQY02NgAANGJg5ODiZGBihgBAMubh5uLggTJMbLxy/ALCgkLCLILMDPxwsWExUTl5CUkpaRlpKUEBcTBYvJyskrKCopq6iqKSrIy8mCxdQ1NLW0dXRZ9PQNtDQ11BlBVjAbGhmzmJiamVuwWFoZMjMyMrBa29ja2Ts4Ojm7uLq5e9jaWLMyeHp5+/i6+vkHBAYEBYeE+oR5eTKER0RGRbPExMbFJyQmsURHRUaEM4gmp6SmpWdkZmVn5Zjn5qWmJIsysOUXFBYVl5SWsZdXVFZV1xTks4Htra1jqaxvqK9kaWwC28vA2Nyi0NrW3tHZ1d7WrdDSDHZzT29f/4SJkyZPmTihv29qD1hs2vQZM2fNnjN33vxZM2dMnwYJlwXsCxctnrxk6bLlC9kXQMKFkZFxxcpVq9esXbJyBTT8QKLr1m/YuHLjhk3r4CKMjJu3bN2wbfuOnbtg4bx7z959+w8c3H/w0OEje47uBosdO37i8MlTp8+cPnv63Llz58FiFy6evHTu2P7jl69cvbbv+g2w2Kmbt27funM34drlFffuL3rAyAAAtrqN5T1fDksAAAAASUVORK5CYII=" alt="UIN Salatiga" />
+  </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,godot,php,js,html,css,mysql,linux,git,vscode&theme=dark&perline=10" alt="Tech Stack" />
+</p>
+
+<br>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Azyska&show_icons=true&hide_border=false&theme=transparent&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&border_color=21262D&border_radius=12&hide_rank=true" alt="GitHub Metrics" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azyska&layout=donut&hide_border=false&theme=transparent&title_color=FFFFFF&text_color=8B949E&border_color=21262D&border_radius=12" alt="Languages Donut" />
+</p>
+
+<br>
 
 <p>
-  Information Technology student (Class of 2025) at <b>UIN Salatiga</b> running <b>Fedora Linux</b> as a daily driver.<br>
-  Passionate about clean software architecture, system administration, computational logic, and indie game dev.
+  <sub><code>"Life is the art of drawing without an eraser."</code></sub>
 </p>
-
-<br>
-
-<!-- Tech Stack Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/GDScript-161B22?style=for-the-badge&logo=godot-engine&logoColor=478CBF" alt="GDScript" />
-  <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Fedora-161B22?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Godot-161B22?style=for-the-badge&logo=godot-engine&logoColor=478CBF" alt="Godot" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
-
-<br>
-
-<!-- Glassmorphism Analytics Cards (Row 1) -->
-<p align="center">
-  <img height="145em" src="https://streak-stats.demolab.com?user=Azyska&theme=transparent&hide_border=false&border=30363D&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&v=1" alt="GitHub Streak" />
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azyska&layout=compact&theme=transparent&title_color=58A6FF&text_color=8B949E&border_color=30363D&border_radius=12&v=1" alt="Top Languages" />
-</p>
-
-<!-- Visual Profile Stats & Productive Time (Row 2) -->
-<p align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azyska&theme=transparent&v=1" alt="Profile Stats" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azyska&theme=transparent&utcOffset=7&v=1" alt="Productive Time" />
-</p>
-
-<br>
-
-<!-- Prominent Motto Banner -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&style=italic&weight=500&size=15&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=520&lines=%22Life+is+the+art+of+drawing+without+an+eraser.%22" alt="Motto" />
-</a>
 
 </div>
