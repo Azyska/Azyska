@@ -1,13 +1,13 @@
 <div align="center">
 
 # Hi there, I'm Aziz Khoirul Setiawan! 👋
-### Software Developer • Fedora Linux Daily Driver • Game & ML Explorer
+### Information Technology Student '25 • Fedora Linux User • Game & ML Explorer
 
 [![Instagram](https://img.shields.io/badge/Instagram-@azyskhrul-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azyskhrul)
 [![OS](https://img.shields.io/badge/OS-Fedora%20Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](#)
-[![University](https://img.shields.io/badge/UIN-Salatiga-2EA44F?style=for-the-badge)](#)
+[![University](https://img.shields.io/badge/UIN%20Salatiga-IT%20'25-2EA44F?style=for-the-badge)](#)
 
-<p>Computer Science student at <b>UIN Salatiga</b> running <b>Fedora Linux</b>. Focused on CLI tools, web systems, 2D pixel games, sysadmin, logic, and machine learning.</p>
+<p>Information Technology student (Class of 2025) at <b>UIN Salatiga</b> running <b>Fedora Linux</b> as a daily driver. Focused on CLI tools, web systems, 2D pixel games, system administration, logic, and machine learning.</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
