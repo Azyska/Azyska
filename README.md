@@ -27,8 +27,8 @@
 <br>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Azyska&show_icons=true&hide_border=false&theme=transparent&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&border_color=21262D&border_radius=12&hide_rank=true" alt="GitHub Metrics" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azyska&layout=donut&hide_border=false&theme=transparent&title_color=FFFFFF&text_color=8B949E&border_color=21262D&border_radius=12" alt="Languages Donut" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Azyska&show_icons=true&hide_border=false&theme=transparent&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&border_color=21262D&border_radius=12&hide_rank=true&v=2" alt="GitHub Metrics" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azyska&layout=donut&hide_border=false&theme=transparent&title_color=FFFFFF&text_color=8B949E&border_color=21262D&border_radius=12&v=2" alt="Languages Donut" />
 </p>
 
 <br>
