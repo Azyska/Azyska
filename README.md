@@ -12,10 +12,10 @@
 <!-- Social & Identity Pills -->
 <p>
   <a href="https://www.instagram.com/azyskhrul">
-    <img src="https://img.shields.io/badge/Instagram-@azyskhrul-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@azyskhrul-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIN%20Salatiga-IT%20'25-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
+  <img src="https://img.shields.io/badge/UIN%20Salatiga-IT%20'25-2EA44F?style=for-the-badge" alt="UIN Salatiga" />
 </p>
 
 <p>
@@ -27,30 +27,30 @@
 
 <!-- Tech Stack Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/GDScript-161B22?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
-  <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Fedora-161B22?style=for-the-badge&logo=fedora&logoColor=51A2DA" />
-  <img src="https://img.shields.io/badge/Godot-161B22?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/GDScript-161B22?style=for-the-badge&logo=godot-engine&logoColor=478CBF" alt="GDScript" />
+  <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Fedora-161B22?style=for-the-badge&logo=fedora&logoColor=51A2DA" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Godot-161B22?style=for-the-badge&logo=godot-engine&logoColor=478CBF" alt="Godot" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 <br>
 
-<!-- Glassmorphism Analytics Cards -->
+<!-- Glassmorphism Analytics Cards (Row 1) -->
 <p align="center">
-  <img height="145em" src="https://streak-stats.demolab.com?user=Azyska&theme=transparent&hide_border=false&border=30363D&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azyska&layout=compact&theme=transparent&title_color=58A6FF&text_color=8B949E&border_color=30363D&border_radius=12" alt="Top Languages" />
+  <img height="145em" src="https://streak-stats.demolab.com?user=Azyska&theme=transparent&hide_border=false&border=30363D&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&v=1" alt="GitHub Streak" />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azyska&layout=compact&theme=transparent&title_color=58A6FF&text_color=8B949E&border_color=30363D&border_radius=12&v=1" alt="Top Languages" />
 </p>
 
-<!-- Visual Skill Radar & Coding Activity Matrix -->
+<!-- Visual Profile Stats & Productive Time (Row 2) -->
 <p align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azyska&theme=transparent" alt="Profile Stats" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azyska&theme=transparent&utcOffset=7" alt="Productive Time" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azyska&theme=transparent&v=1" alt="Profile Stats" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azyska&theme=transparent&utcOffset=7&v=1" alt="Productive Time" />
 </p>
 
 <br>
