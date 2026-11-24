@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Azis Khoirul</h1>
+<h1>Azis Khoirul Setiawan</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Information+Technology+'25+%E2%80%94+UIN+Salatiga;Fedora+Linux+Daily+Driver+%E2%80%A2+SysAdmin+%26+Logic;Python+CLI+%E2%80%A2+Web+Systems+%E2%80%A2+Godot+2D+Pixel" alt="Subtitle" />
